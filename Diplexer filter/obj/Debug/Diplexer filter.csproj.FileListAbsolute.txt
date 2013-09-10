@@ -1,0 +1,8 @@
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\bin\Debug\Diplexer filter.exe
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\bin\Debug\Diplexer filter.pdb
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer filter.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer_filter.Form1.resources
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer_filter.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer filter.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer filter.exe
+c:\users\thomas\documents\visual studio 2012\Projects\Diplexer filter\Diplexer filter\obj\Debug\Diplexer filter.pdb
